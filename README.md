@@ -23,3 +23,7 @@ Wishlist
 - [ ] function to upload data files to zenodo easily (does zenodo have an api?)
 - [ ] Initialise the repo on GH?
 - [ ] Trigger Travis, etc?
+- [ ] Initiate RTD?
+- [ ] Initiate GH wiki repo?
+- [ ] Get travis to build manuscripts and upload difftex pdfs to the GH wiki?
+- [ ] Some draft options/config file of what to turn on/off by default
