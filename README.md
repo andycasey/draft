@@ -21,4 +21,5 @@ Wishlist
 - [ ] template files for different journals
 - [ ] an extensive example journal file (e.g., with tables etc)
 - [ ] function to upload data files to zenodo easily (does zenodo have an api?)
-
+- [ ] Initialise the repo on GH?
+- [ ] Trigger Travis, etc?
