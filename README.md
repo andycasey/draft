@@ -8,6 +8,7 @@ Create open-science template repositories with all the bells and whistles in an 
 
 Wishlist
 --------
+- [ ] python code template (e.g., with encoding, __author__, etc)
 - [ ] Travis ready-to-run, perhaps even with a faux test
 - [ ] Coveralls ready-to-run
 - [ ] Folders for article/docs/code
